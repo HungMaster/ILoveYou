@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ILY</string>
+    <string name="text_title">EM CO YEU ANH KHONG?</string>
+    <string name="text_btn_yes">Co</string>
+    <string name="text_btn_no">Khong</string>
+    <string name="text_btn_message">AHiHi</string>
+</resources>
